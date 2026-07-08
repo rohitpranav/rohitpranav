@@ -1,18 +1,864 @@
-# 💫 About Me:
-## 🚀 About Me<br><br>🔭 I'm currently working on **Cloud Security, AWS, Azure, Linux, Docker, Kubernetes, and DevSecOps projects.**<br><br>👯 I'm looking to collaborate on **Open Source, Cloud Security, DevSecOps, and Infrastructure as Code (IaC) projects.**<br><br>🤝 I'm looking for help with **Advanced Cloud Security, Kubernetes Security, Threat Detection, and Security Automation.**<br><br>🌱 I'm currently learning **AWS, Microsoft Azure, Terraform, Kubernetes, Python, Bash, SIEM, IAM, Cloud Networking, and Infrastructure as Code.**<br><br>💬 Ask me about **Cloud Computing, Cybersecurity, Linux, Networking, AWS, Azure, DevSecOps, Git, Docker, and Python.**<br><br>⚡ Fun fact: **I enjoy building secure cloud solutions, automating workflows, and continuously learning new technologies.**
+You are a Senior UI/UX Designer, GitHub Profile Expert, Creative Director, Frontend Engineer, Motion Designer, and Open Source Branding Specialist.
 
+Your task is to create a world-class GitHub profile README that looks like the portfolio of a top software engineer.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rohit_pranav_5) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rohitpranav5/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@rohitpranav8162) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohitpranav056@gmail.com) 
+GOAL
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![CloudBees](https://img.shields.io/badge/CloudBees-1997B5&?logo=cloudbees&logoColor=white&style=for-the-badge) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white) ![Packer](https://img.shields.io/badge/packer-%23E7EEF0.svg?style=for-the-badge&logo=packer&logoColor=%2302A8EF)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=rohitpranav&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=rohitpranav&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=rohitpranav&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Create a futuristic, premium-quality GitHub profile that immediately impresses recruiters from Google, Microsoft, Amazon, Apple, NVIDIA, Meta, OpenAI, Oracle, IBM, Cisco, Intel, Adobe, and startups.
 
----
-[![](https://komarev.com/ghpvc/?username=rohitpranav&icon=0&color=0)](https://visitcount.itsvg.in)
+The profile should combine:
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+• Professional branding
+• Modern UI
+• Animated SVGs
+• 3D aesthetics
+• Clean typography
+• GitHub statistics
+• Open Source identity
+• Recruiter-friendly presentation
+
+--------------------------------------------------
+DESIGN STYLE
+--------------------------------------------------
+
+Theme:
+
+Futuristic Developer Workspace
+
+Use
+
+• Glassmorphism
+• Neon Glow
+• Dark Theme
+• Cyber Blue
+• Purple gradients
+• Animated particles
+• Premium spacing
+• Rounded cards
+• SVG animations
+• Floating objects
+• 3D illustrations
+• Smooth transitions
+
+Color Palette
+
+Background:
+#050816
+
+Primary:
+#00F5FF
+
+Secondary:
+#7C3AED
+
+Accent:
+#38BDF8
+
+Text:
+#FFFFFF
+
+Muted:
+#94A3B8
+
+Success:
+#22C55E
+
+--------------------------------------------------
+HEADER
+--------------------------------------------------
+
+Large animated wave
+
+Typing animation
+
+Animated developer illustration
+
+Name in large font
+
+Professional subtitle
+
+Example
+
+Computer Science Student
+Software Developer
+Machine Learning Enthusiast
+Java Developer
+Python Programmer
+IoT Developer
+
+--------------------------------------------------
+HERO SECTION
+--------------------------------------------------
+
+Create a premium hero section including
+
+Animated coding illustration
+
+Laptop
+
+Floating icons
+
+Git
+
+GitHub
+
+Java
+
+Python
+
+HTML
+
+CSS
+
+SQL
+
+Machine Learning
+
+VS Code
+
+IoT
+
+Database
+
+Cloud
+
+Everything should appear floating in 3D.
+
+--------------------------------------------------
+ABOUT ME
+--------------------------------------------------
+
+Professional summary
+
+Mention
+
+M.Sc Computer Science Student
+
+Passionate about
+
+Software Development
+
+Machine Learning
+
+Web Technologies
+
+IoT
+
+Problem Solving
+
+Continuous Learning
+
+--------------------------------------------------
+TECH STACK
+--------------------------------------------------
+
+Animated icons
+
+Java
+
+Python
+
+HTML
+
+CSS
+
+SQL
+
+JavaScript
+
+Git
+
+GitHub
+
+VS Code
+
+IntelliJ
+
+MySQL
+
+Arduino
+
+Adobe Photoshop
+
+Google Workspace
+
+--------------------------------------------------
+SKILLS SECTION
+--------------------------------------------------
+
+Glass cards
+
+Programming
+
+Backend
+
+Frontend
+
+Database
+
+IoT
+
+Tools
+
+Version Control
+
+Problem Solving
+
+--------------------------------------------------
+PROJECT SHOWCASE
+--------------------------------------------------
+
+Create premium project cards
+
+Each card contains
+
+Image
+
+Tech Stack
+
+Description
+
+GitHub Button
+
+Live Demo Button
+
+Glow Hover
+
+Projects
+
+1.
+
+Employee Record Management System
+
+Technologies
+
+HTML
+
+CSS
+
+JavaScript
+
+PHP
+
+MySQL
+
+XAMPP
+
+Description
+
+Web-based employee management system featuring authentication, profile management, and centralized administration.
+
+2.
+
+Obstacle Detector Smart Shoes
+
+Technologies
+
+Arduino Nano
+
+Ultrasonic Sensor
+
+Embedded C
+
+Arduino IDE
+
+Description
+
+IoT smart shoes assisting visually impaired individuals through obstacle detection and real-time audio alerts.
+
+--------------------------------------------------
+CERTIFICATIONS
+--------------------------------------------------
+
+Beautiful certificate timeline
+
+Machine Learning with Python
+
+IBM SkillsBuild Foundation in Coding and Cloud
+
+Typing Certification
+
+--------------------------------------------------
+EDUCATION
+--------------------------------------------------
+
+Timeline
+
+M.Sc Computer Science
+
+Current GPA 8.5
+
+B.Sc Computer Science and Applications
+
+GPA 7.5
+
+--------------------------------------------------
+GITHUB STATS
+--------------------------------------------------
+
+Include
+
+GitHub Stats
+
+GitHub Streak
+
+Contribution Graph
+
+Activity Graph
+
+Most Used Languages
+
+Profile Trophy
+
+Visitor Counter
+
+Contribution Snake Animation
+
+--------------------------------------------------
+OPEN SOURCE SECTION
+--------------------------------------------------
+
+Explain
+
+Interested in
+
+Open Source
+
+Java
+
+Python
+
+Web Development
+
+Machine Learning
+
+IoT
+
+--------------------------------------------------
+ANIMATIONS
+--------------------------------------------------
+
+Use
+
+SVG animation
+
+Typing animation
+
+Glow animation
+
+Floating animation
+
+Hover animation
+
+Gradient animation
+
+Animated waves
+
+Animated blobs
+
+Mouse parallax
+
+Particles
+
+--------------------------------------------------
+README STRUCTURE
+--------------------------------------------------
+
+Hero
+
+About
+
+Tech Stack
+
+Skills
+
+Projects
+
+Education
+
+Certifications
+
+GitHub Analytics
+
+Achievements
+
+Connect
+
+Footer
+
+--------------------------------------------------
+FOOTER
+--------------------------------------------------
+
+Animated wave
+
+Thank you for visiting
+
+Happy Coding
+
+--------------------------------------------------
+REQUIREMENTS
+--------------------------------------------------
+
+Use Markdown.
+
+Use Shields.io badges.
+
+Use GitHub Readme Stats.
+
+Use GitHub Streak Stats.
+
+Use GitHub Activity Graph.
+
+Use Profile Trophy.
+
+Use Snake Animation.
+
+Use Responsive SVGs.
+
+Use animated GIFs where appropriate.
+
+Everything should be clean, recruiter-friendly, visually premium, modern, and optimized for GitHub.
+
+Avoid clutter.
+
+Maintain consistent spacing.
+
+Ensure fast loading.
+
+Follow GitHub README best practices.
+
+The final output should look comparable to the GitHub profiles of top open-source maintainers and elite software engineers.
+
+==========================================================
+ULTRA-PREMIUM ELITE GITHUB PROFILE REQUIREMENTS
+==========================================================
+
+Your objective is to create one of the highest-quality GitHub profile READMEs possible.
+
+The final result should feel like the profile of an elite software engineer, open-source maintainer, AI engineer, cloud architect, or cybersecurity professional.
+
+The profile should be visually stunning, technically impressive, recruiter-friendly, ATS-aware, mobile responsive, and optimized for GitHub rendering.
+
+==========================================================
+DESIGN PHILOSOPHY
+==========================================================
+
+Design Language
+
+• Premium
+• Minimal
+• Modern
+• Elegant
+• Futuristic
+• Interactive
+• Clean
+• High-end
+• Professional
+
+Visual Inspiration
+
+• AI interfaces
+• Cybersecurity SOC dashboards
+• Developer workstations
+• Holographic HUD
+• Apple-level spacing
+• Google Material precision
+• Microsoft Fluent aesthetics
+• Modern SaaS dashboards
+• Premium portfolio websites
+
+==========================================================
+3D CYBER EXPERIENCE
+==========================================================
+
+Create a futuristic 3D experience using:
+
+• Floating holographic cards
+• 3D rotating technology icons
+• Neon glowing objects
+• Animated cyber grid
+• Interactive particle network
+• Glassmorphism layers
+• Depth shadows
+• Dynamic gradients
+• Floating geometric shapes
+• Moving light rays
+• Animated constellations
+• Wireframe spheres
+• Digital wave effects
+• Holographic interface panels
+• AI neural network visualization
+
+Everything should appear immersive while remaining lightweight and GitHub-compatible.
+
+==========================================================
+ADVANCED SVG ANIMATIONS
+==========================================================
+
+Include professional SVG animations such as:
+
+Animated coding terminal
+
+Typing effect
+
+Animated cursor
+
+Scrolling code
+
+Circuit board animation
+
+Cyber shield
+
+AI brain animation
+
+Floating cloud icons
+
+Data packets
+
+Server racks
+
+Git branching animation
+
+Code compiling animation
+
+Network traffic visualization
+
+Repository synchronization
+
+Security scanning animation
+
+Gradient waves
+
+Animated blobs
+
+Energy pulse
+
+Light sweep
+
+Hover transitions
+
+Loading effects
+
+==========================================================
+INTERACTIVE DASHBOARD
+==========================================================
+
+Create an executive dashboard including:
+
+Developer Status
+
+Current Focus
+
+Learning
+
+Working On
+
+Tech Stack
+
+Experience
+
+Latest Project
+
+Open Source Activity
+
+Coding Hours
+
+Productivity Meter
+
+Contribution Heatmap
+
+Programming Distribution
+
+Repository Statistics
+
+GitHub Analytics
+
+Code Quality
+
+Community Impact
+
+==========================================================
+HACKER TERMINAL
+==========================================================
+
+Create an animated terminal section displaying commands such as:
+
+whoami
+
+skills
+
+experience
+
+education
+
+projects
+
+certifications
+
+contact
+
+github status
+
+git log
+
+ls repositories
+
+sudo make impact
+
+cat achievements.txt
+
+The terminal should simulate a realistic Linux shell with syntax highlighting.
+
+==========================================================
+AI VISUALS
+==========================================================
+
+Integrate AI-inspired graphics:
+
+Neural networks
+
+Machine learning diagrams
+
+Digital intelligence
+
+Neural connections
+
+Brain visualization
+
+AI chips
+
+Quantum particles
+
+Floating tensors
+
+Matrix effects
+
+Digital intelligence streams
+
+==========================================================
+GITHUB ANALYTICS
+==========================================================
+
+Automatically include:
+
+GitHub Readme Stats
+
+GitHub Streak Stats
+
+Most Used Languages
+
+Contribution Calendar
+
+Contribution Snake Animation
+
+GitHub Activity Graph
+
+GitHub Profile Trophy
+
+Visitor Counter
+
+Repository Pins
+
+Top Languages
+
+Commit Calendar
+
+Repository Statistics
+
+Coding Time (WakaTime if available)
+
+Productivity Dashboard
+
+==========================================================
+PREMIUM BADGES
+==========================================================
+
+Use beautiful Shields.io badges for:
+
+Java
+
+Python
+
+HTML
+
+CSS
+
+JavaScript
+
+PHP
+
+SQL
+
+MySQL
+
+Git
+
+GitHub
+
+VS Code
+
+IntelliJ IDEA
+
+Arduino
+
+Machine Learning
+
+IoT
+
+Open Source
+
+Linux
+
+Cloud
+
+REST API
+
+Problem Solving
+
+==========================================================
+PROJECT SHOWCASE
+==========================================================
+
+Design premium project cards with:
+
+Hero image
+
+Project banner
+
+Technology badges
+
+Difficulty level
+
+Project architecture
+
+Key Features
+
+Screenshots
+
+Animated hover
+
+GitHub button
+
+Demo button
+
+Documentation button
+
+==========================================================
+ACHIEVEMENT SHOWCASE
+==========================================================
+
+Highlight:
+
+Academic Excellence
+
+Technical Certifications
+
+Open Source Contributions
+
+Hackathons
+
+Community Participation
+
+Volunteer Experience
+
+Learning Journey
+
+Professional Growth
+
+==========================================================
+RECRUITER OPTIMIZATION
+==========================================================
+
+Every section must answer:
+
+Who is this developer?
+
+What technologies do they know?
+
+What projects have they built?
+
+Can they solve real-world problems?
+
+Are they active on GitHub?
+
+Are they passionate about technology?
+
+Would I interview this candidate?
+
+==========================================================
+OPEN SOURCE BRANDING
+==========================================================
+
+Create a strong developer identity emphasizing:
+
+Knowledge Sharing
+
+Continuous Learning
+
+Community Contributions
+
+Clean Code
+
+Documentation
+
+Scalable Software
+
+Innovation
+
+Engineering Excellence
+
+==========================================================
+PRODUCTION-GRADE QUALITY
+==========================================================
+
+Follow best practices:
+
+Clean Markdown
+
+Responsive Layout
+
+Fast Loading
+
+Accessible Design
+
+GitHub Compatible
+
+SEO-Friendly
+
+Consistent Typography
+
+Professional Color Palette
+
+Uniform Iconography
+
+Balanced White Space
+
+Modular Sections
+
+Readable Code Blocks
+
+No Broken Links
+
+No Placeholder Content
+
+No Fake Statistics
+
+No Fake Achievements
+
+==========================================================
+FINAL DELIVERABLE
+==========================================================
+
+Generate a complete, production-ready GitHub Profile README that:
+
+• Looks visually outstanding.
+• Uses premium animations and SVG effects.
+• Includes recruiter-focused storytelling.
+• Highlights projects, skills, certifications, and achievements.
+• Is fully responsive and GitHub-compatible.
+• Uses only truthful information extracted from the provided resume.
+• Does not invent work experience, certifications, projects, skills, achievements, or statistics.
+• Includes clear setup instructions for all dynamic widgets and GitHub Actions.
+• Is modular, maintainable, and easy to customize.
+• Represents a polished personal brand suitable for internship and entry-level software engineering, AI, cloud, or cybersecurity opportunities.
