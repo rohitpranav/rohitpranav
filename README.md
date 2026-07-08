@@ -1,34 +1,744 @@
-# 💫 About Me:
+You are a Senior Frontend Engineer, Creative Developer, GitHub Profile Designer, Three.js Expert, SVG Animation Expert, UI/UX Designer, and Recruiter Branding Specialist.
 
-## 🚀 About Me<br><br>🔭 I'm currently working on **Cloud Security, AWS, Azure, Linux, Docker, Kubernetes, and DevSecOps projects.**<br><br>👯 I'm looking to collaborate on **Open Source, Cloud Security, DevSecOps, and Infrastructure as Code (IaC) projects.**<br><br>🤝 I'm looking for help with **Advanced Cloud Security, Kubernetes Security, Threat Detection, and Security Automation.**<br><br>🌱 I'm currently learning **AWS, Microsoft Azure, Terraform, Kubernetes, Python, Bash, SIEM, IAM, Cloud Networking, and Infrastructure as Code.**<br><br>💬 Ask me about **Cloud Computing, Cybersecurity, Linux, Networking, AWS, Azure, DevSecOps, Git, Docker, and Python.**<br><br>⚡ Fun fact: **I enjoy building secure cloud solutions, automating workflows, and continuously learning new technologies.**
+Your mission is to build the MOST BEAUTIFUL, MOST PREMIUM, MOST FUTURISTIC GitHub Profile README ever created.
 
+The result must look like the GitHub profile of an engineer working at OpenAI, Google DeepMind, Microsoft, NVIDIA, Apple, Meta, SpaceX, Anthropic or Cloudflare.
 
+=========================================================
+GOAL
+=========================================================
 
+Create an unforgettable GitHub Profile README that combines
 
+• 3D Visual Design
+• Interactive SVG
+• Animated Terminal
+• Cyberpunk Theme
+• AI Theme
+• Glassmorphism
+• Recruiter Friendly
+• ATS Friendly
+• Professional Branding
+• Dynamic Statistics
+• Live Animations
+• Modern Typography
+• Beautiful Layout
+• Responsive Design
 
-## 🌐 Socials:
+The profile should immediately impress recruiters within 5 seconds.
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rohit_pranav_5) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rohitpranav5/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@rohitpranav8162) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohitpranav056@gmail.com) 
+=========================================================
+DESIGN STYLE
+=========================================================
 
+Theme:
 
+Ultra Premium
+Cyberpunk
+AI Engineer
+SOC Dashboard
+Futuristic Operating System
+Holographic Interface
+Dark Neon Theme
 
-# 💻 Tech Stack:
+=========================================================
+COLOR PALETTE
+=========================================================
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![CloudBees](https://img.shields.io/badge/CloudBees-1997B5&?logo=cloudbees&logoColor=white&style=for-the-badge) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white) ![Packer](https://img.shields.io/badge/packer-%23E7EEF0.svg?style=for-the-badge&logo=packer&logoColor=%2302A8EF)
+Background
+#050816
 
-# 📊 GitHub Stats:
+Primary
+#00F5FF
 
-![](https://github-readme-stats.shion.dev/api?username=rohitpranav&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+Secondary
+#3B82F6
 
-![](https://streak-stats.demolab.com/?user=rohitpranav&theme=dark&hide_border=false)<br/>
+Purple
+#8B5CF6
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=rohitpranav&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Pink
+#EC4899
 
+Green
+#00FFB2
 
+Yellow
+#FACC15
 
----
+White
+#FFFFFF
 
-[![](https://komarev.com/ghpvc/?username=rohitpranav&icon=0&color=0)](https://visitcount.itsvg.in)
+Gray
+#94A3B8
 
+=========================================================
+VISUAL EFFECTS
+=========================================================
 
+Everything should feel alive.
 
+Use
+
+✓ Neon Glow
+✓ Blur Effects
+✓ Glassmorphism
+✓ Floating Panels
+✓ Animated Borders
+✓ Moving Lights
+✓ Pulse Effects
+✓ Gradient Text
+✓ Animated Shadows
+✓ Reflection Effects
+
+=========================================================
+3D VISUALIZATION
+=========================================================
+
+Create the illusion of a complete 3D interface using SVG.
+
+Include
+
+3D floating cubes
+
+3D rotating globe
+
+3D AI chip
+
+3D network
+
+3D hologram
+
+3D terminal
+
+3D coding screen
+
+3D planets
+
+3D satellites
+
+3D particles
+
+3D stars
+
+3D neural network
+
+3D cyber grid
+
+3D futuristic city
+
+3D floating holographic cards
+
+3D digital tunnel
+
+3D wireframe objects
+
+3D animated polygons
+
+=========================================================
+BACKGROUND
+=========================================================
+
+Animated cyber grid
+
+Moving particles
+
+Glowing lines
+
+Neural connections
+
+AI circuits
+
+Constellation
+
+Floating code
+
+Digital rain
+
+Blue energy waves
+
+Light beams
+
+=========================================================
+TOP BANNER
+=========================================================
+
+Large animated hero section.
+
+Should contain
+
+Animated Name
+
+Animated Profession
+
+Typing Effect
+
+Floating Icons
+
+Animated AI Logo
+
+Moving Lights
+
+Glass Card
+
+Neon Border
+
+=========================================================
+ANIMATED TITLE
+=========================================================
+
+Typing animation cycling through
+
+AI Engineer
+
+Cybersecurity Engineer
+
+Cloud Engineer
+
+Full Stack Developer
+
+Open Source Contributor
+
+Problem Solver
+
+Tech Explorer
+
+Always Learning
+
+=========================================================
+INTRO SECTION
+=========================================================
+
+Beautiful introduction card.
+
+Include
+
+Photo Placeholder
+
+Short Bio
+
+Location
+
+Portfolio
+
+Website
+
+LinkedIn
+
+Email
+
+Resume
+
+GitHub Followers
+
+Profile Views
+
+Visitor Counter
+
+=========================================================
+ANIMATED TERMINAL
+=========================================================
+
+Create a realistic Linux terminal.
+
+Display
+
+whoami
+
+skills
+
+education
+
+projects
+
+experience
+
+currently_learning
+
+goal
+
+fun_fact
+
+Everything should animate.
+
+=========================================================
+TECH STACK
+=========================================================
+
+Use premium animated badges.
+
+Organize into categories.
+
+Programming
+
+Python
+
+Java
+
+C++
+
+JavaScript
+
+TypeScript
+
+Go
+
+Rust
+
+Backend
+
+Node
+
+Express
+
+Spring Boot
+
+FastAPI
+
+Frontend
+
+React
+
+Next.js
+
+Tailwind
+
+HTML
+
+CSS
+
+Cloud
+
+AWS
+
+Azure
+
+GCP
+
+Docker
+
+Kubernetes
+
+Terraform
+
+Security
+
+Kali
+
+Burp Suite
+
+Nmap
+
+Wireshark
+
+Metasploit
+
+Linux
+
+Database
+
+MySQL
+
+MongoDB
+
+PostgreSQL
+
+Redis
+
+AI
+
+TensorFlow
+
+PyTorch
+
+OpenCV
+
+Scikit Learn
+
+LangChain
+
+OpenAI
+
+=========================================================
+LIVE DASHBOARD
+=========================================================
+
+Create a dashboard containing
+
+GitHub Stats
+
+Contribution Graph
+
+Contribution Snake
+
+Streak
+
+Languages
+
+Achievements
+
+Activity Graph
+
+Followers
+
+Stars
+
+Repositories
+
+Commits
+
+Pull Requests
+
+Issues
+
+Reviews
+
+=========================================================
+3D ANALYTICS SECTION
+=========================================================
+
+Create futuristic dashboard cards.
+
+Use
+
+Circular Charts
+
+Progress Rings
+
+Animated Bars
+
+Hexagons
+
+Glass Panels
+
+=========================================================
+PROJECT SHOWCASE
+=========================================================
+
+Premium cards.
+
+Each card includes
+
+3D Thumbnail
+
+Live Demo
+
+Repository
+
+Tech Stack
+
+Description
+
+Hover Animation
+
+Glow
+
+Animated Border
+
+=========================================================
+ACHIEVEMENTS
+=========================================================
+
+Beautiful Trophy Wall.
+
+GitHub Achievements
+
+Hackathons
+
+Competitions
+
+Certificates
+
+Badges
+
+Open Source
+
+Community
+
+=========================================================
+TIMELINE
+=========================================================
+
+Animated vertical timeline.
+
+Journey
+
+Education
+
+Internships
+
+Projects
+
+Certifications
+
+Achievements
+
+Career Goals
+
+=========================================================
+CODING ACTIVITY
+=========================================================
+
+Animated charts.
+
+Heatmap
+
+Weekly Activity
+
+Monthly Activity
+
+Yearly Activity
+
+=========================================================
+AI SECTION
+=========================================================
+
+Animated neural network.
+
+Show
+
+Current AI Interests
+
+Machine Learning
+
+LLMs
+
+RAG
+
+Agents
+
+Automation
+
+=========================================================
+CYBERSECURITY SECTION
+=========================================================
+
+SOC Dashboard
+
+Threat Radar
+
+Shield Animation
+
+Scanning Effect
+
+Firewall Animation
+
+Threat Detection
+
+=========================================================
+QUOTE SECTION
+=========================================================
+
+Beautiful animated quote.
+
+Example
+
+"Code with curiosity.
+Build with purpose.
+Learn without limits."
+
+=========================================================
+FOOTER
+=========================================================
+
+Animated wave
+
+Glowing particles
+
+Moving stars
+
+Thank You message
+
+Social Icons
+
+=========================================================
+SVG ANIMATIONS
+=========================================================
+
+Use advanced SVG.
+
+Glow
+
+Pulse
+
+Morph
+
+Orbit
+
+Rotation
+
+Path Drawing
+
+Gradient Animation
+
+Floating
+
+Particle Motion
+
+=========================================================
+GIFS
+=========================================================
+
+Include tasteful developer GIFs.
+
+Never overuse.
+
+=========================================================
+BADGES
+=========================================================
+
+Premium Shields.io
+
+Animated
+
+Modern
+
+Minimal
+
+=========================================================
+RECRUITER OPTIMIZATION
+=========================================================
+
+Optimize every section for recruiters.
+
+Show
+
+Skills
+
+Projects
+
+Experience
+
+Certifications
+
+Learning
+
+Achievements
+
+Impact
+
+Professional Branding
+
+=========================================================
+SEO
+=========================================================
+
+Optimize for
+
+GitHub Search
+
+Google Search
+
+Recruiter Search
+
+AI Engineer
+
+Cloud Engineer
+
+Cybersecurity Engineer
+
+Open Source
+
+=========================================================
+README REQUIREMENTS
+=========================================================
+
+Produce
+
+✔ Production Ready
+
+✔ Clean Markdown
+
+✔ Fully Responsive
+
+✔ Beautiful
+
+✔ Professional
+
+✔ Premium
+
+✔ Modular
+
+✔ Easy to Edit
+
+✔ No Broken Images
+
+✔ No Placeholder Errors
+
+✔ GitHub Compatible
+
+✔ Mobile Friendly
+
+✔ Desktop Friendly
+
+✔ Light Performance
+
+✔ Modern Design
+
+=========================================================
+BONUS FEATURES
+=========================================================
+
+Include
+
+✓ Matrix Rain
+
+✓ Animated Snake
+
+✓ Dynamic Spotify
+
+✓ Wakatime
+
+✓ LeetCode Stats
+
+✓ HackerRank Badge
+
+✓ Holopin Board
+
+✓ Dev Quote
+
+✓ GitHub Skyline
+
+✓ GitHub Metrics
+
+✓ Dynamic Blog Posts
+
+✓ Dynamic YouTube Videos
+
+✓ Dynamic Latest Repositories
+
+✓ Dynamic Latest Commits
+
+✓ Animated Coding GIF
+
+✓ AI Brain Animation
+
+✓ Floating Binary Numbers
+
+✓ Floating Icons
+
+✓ Interactive Navigation Menu
+
+✓ Back to Top Button
+
+✓ Expandable Sections
+
+✓ Smooth Anchor Navigation
+
+=========================================================
+FINAL OUTPUT
+=========================================================
+
+Generate the COMPLETE GitHub README.md.
+
+No explanations.
+
+Only production-ready Markdown.
+
+Every section should be polished.
+
+Every SVG should be modern.
+
+Every animation should feel premium.
+
+The final README should look like it belongs to one of the world's top software engineers.
