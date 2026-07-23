@@ -1,34 +1,70 @@
-# 💫 About Me:
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:8B5CFF,100:22D3EE&height=220&section=header&text=ROHIT%20PRANAV%20D&fontSize=42&fontColor=ffffff&desc=Cloud%20Security%20Engeneering&descSize=18&descAlign=50&descAlignY=58)
+<div align="center">
 
-## 🚀 About Me<br><br>🔭 I'm currently working on **Cloud Security, AWS, Azure, Linux, Docker, Kubernetes, and DevSecOps projects.**<br><br>👯 I'm looking to collaborate on **Open Source, Cloud Security, DevSecOps, and Infrastructure as Code (IaC) projects.**<br><br>🤝 I'm looking for help with **Advanced Cloud Security, Kubernetes Security, Threat Detection, and Security Automation.**<br><br>🌱 I'm currently learning **AWS, Microsoft Azure, Terraform, Kubernetes, Python, Bash, SIEM, IAM, Cloud Networking, and Infrastructure as Code.**<br><br>💬 Ask me about **Cloud Computing, Cybersecurity, Linux, Networking, AWS, Azure, DevSecOps, Git, Docker, and Python.**<br><br>⚡ Fun fact: **I enjoy building secure cloud solutions, automating workflows, and continuously learning new technologies.**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8B5CFF&center=true&vCenter=true&width=600&lines=Cloud%20Security%20Enthusiast;DevSecOps%20%26%20Web%20Security;Building%20Secure%20Solutions)](https://git.io/typing-svg)
 
+</div>
+<div align="center">
 
+![Profile Views](https://komarev.com/ghpvc/?username=rohitpranav&color=8B5CFF&style=for-the-badge&label=PROFILE+VIEWS)
 
+</div>
+## ⚡ About Me
+- I am an MCA candidate in Information Security Management with a background in Computer Science and Applications.
+- My focus centers on cloud security, secure software development, and vulnerability assessment.
+- I am dedicated to deepening my expertise in AWS, DevSecOps, and modern web technologies to build resilient systems.
+## 🚀 What I'm Up To
 
+- Currently expanding my knowledge in AWS cloud security and DevSecOps.
+- Building practical software projects using Python, PHP, and MySQL.
+- Ask me about network security, Burp Suite, Nmap, and Wireshark.
 
-## 🌐 Socials:
+## 🛠️ Tech Arsenal
+<div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rohit_pranav_5) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rohitpranav5/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@rohitpranav8162) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohitpranav056@gmail.com) 
+![Programming: Python](https://img.shields.io/badge/Programming%3A%20Python-555?style=for-the-badge) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-555?style=for-the-badge) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![JavaScript
+Web Development: HTML5](https://img.shields.io/badge/JavaScript%0AWeb%20Development%3A%20HTML5-555?style=for-the-badge) ![CSS3](https://img.shields.io/badge/CSS3-555?style=for-the-badge) ![PHP
+Database: MySQL
+Cybersecurity: Network Security](https://img.shields.io/badge/PHP%0ADatabase%3A%20MySQL%0ACybersecurity%3A%20Network%20Security-555?style=for-the-badge) ![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability%20Assessment-555?style=for-the-badge) ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-555?style=for-the-badge) ![Nmap](https://img.shields.io/badge/Nmap-555?style=for-the-badge) ![Wireshark](https://img.shields.io/badge/Wireshark-555?style=for-the-badge) ![Kali Linux
+Cloud: AWS (Learning)](https://img.shields.io/badge/Kali%20Linux%0ACloud%3A%20AWS%20(Learning)-555?style=for-the-badge) ![Cloud Security Fundamentals
+Tools: Git](https://img.shields.io/badge/Cloud%20Security%20Fundamentals%0ATools%3A%20Git-555?style=for-the-badge) ![GitHub](https://img.shields.io/badge/GitHub-555?style=for-the-badge) ![VS Code
+Soft Skills: Problem Solving](https://img.shields.io/badge/VS%20Code%0ASoft%20Skills%3A%20Problem%20Solving-555?style=for-the-badge) ![Teamwork](https://img.shields.io/badge/Teamwork-555?style=for-the-badge) ![Communication](https://img.shields.io/badge/Communication-555?style=for-the-badge) ![Continuous Learning](https://img.shields.io/badge/Continuous%20Learning-555?style=for-the-badge)
 
+</div>
+## 📊 GitHub Analytics
+<div align="center">
 
+![rohitpranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohitpranav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitpranav&layout=compact&theme=tokyonight&hide_border=true)
 
-# 💻 Tech Stack:
+</div>
+<div align="center">
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![CloudBees](https://img.shields.io/badge/CloudBees-1997B5&?logo=cloudbees&logoColor=white&style=for-the-badge) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white) ![Packer](https://img.shields.io/badge/packer-%23E7EEF0.svg?style=for-the-badge&logo=packer&logoColor=%2302A8EF)
+![GitHub Streak](https://streak-stats.demolab.com?user=rohitpranav&theme=tokyonight&hide_border=true)
 
-# 📊 GitHub Stats:
+</div>
+<div align="center">
 
-![](https://github-readme-stats.shion.dev/api?username=rohitpranav&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rohitpranav&theme=tokyo-night&hide_border=true&area=true)](https://github.com/rohitpranav)
 
-![](https://streak-stats.demolab.com/?user=rohitpranav&theme=dark&hide_border=false)<br/>
+</div>
+<div align="center">
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=rohitpranav&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Trophies](https://github-profile-trophy.vercel.app/?username=rohitpranav&theme=tokyonight&no-frame=true&column=7&margin-w=10)
 
+</div>
+## 🤝 Connect & Support
 
+<div align="center">
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/rohitpranav5/) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohitpranav056@gmail.com)
 
-[![](https://komarev.com/ghpvc/?username=rohitpranav&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:8B5CFF&height=120&section=footer&text=&fontSize=42)
 
+<div align="center">
 
+[![Made with ReadmeBuddy](https://img.shields.io/badge/Made%20with-ReadmeBuddy-8B5CFF?style=for-the-badge&logo=markdown&logoColor=white)](https://readmebuddy.com)
+
+</div>
