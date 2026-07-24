@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:8B5CFF,100:22D3EE&height=220&section=header&text=ROHIT%20PRANAV%20D&fontSize=42&fontColor=ffffff&desc=Aspiring%20Cloud%20Security%20Engineer%20%7C%20MCA%20(Information%20Systems%20Management)%20%7C%20AWS%20%26%20Cybersecurity%20Learner&descSize=18&descAlign=50&descAlignY=58)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:8B5CFF,100:22D3EE&height=220&section=header&text=ROHIT%20PRANAV%20D&fontSize=42&fontColor=ffffff&desc=Cloud%20Security%20Engeneering&descSize=18&descAlign=50&descAlignY=58)
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8B5CFF&center=true&vCenter=true&width=600&lines=Aspiring%20Cloud%20Security%20Engineer;AWS%20and%20DevSecOps%20Learner;MCA%20Information%20Systems%20Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8B5CFF&center=true&vCenter=true&width=600&lines=Cloud%20Security%20Enthusiast;DevSecOps%20%26%20Web%20Security;Building%20Secure%20Solutions)](https://git.io/typing-svg)
 
 </div>
 <div align="center">
@@ -10,36 +10,25 @@
 
 </div>
 ## ⚡ About Me
-- I am an aspiring Cloud Security Engineer pursuing an MCA in Information Systems Management.
-- My focus centers on AWS, secure software development, and continuous learning through practical projects.
-- I am dedicated to building resilient cloud infrastructure and mastering core cybersecurity principles.
+- I am an MCA candidate in Information Security Management with a background in Computer Science and Applications.
+- My focus centers on cloud security, secure software development, and vulnerability assessment.
+- I am dedicated to deepening my expertise in AWS, DevSecOps, and modern web technologies to build resilient systems.
 ## 🚀 What I'm Up To
 
-- Currently sharpening skills in DevSecOps and container security.
-- Learning infrastructure automation with Terraform and Kubernetes.
-- Ask me about vulnerability assessment and network analysis tools.
+- Currently expanding my knowledge in AWS cloud security and DevSecOps.
+- Building practical software projects using Python, PHP, and MySQL.
+- Ask me about network security, Burp Suite, Nmap, and Wireshark.
 
 ## 🛠️ Tech Arsenal
 <div align="center">
 
-![Cloud Security
-AWS
-Linux
-Python
-Networking
-IAM
-Docker
-Kubernetes
-Terraform
-Git & GitHub
-DevSecOps
-Vulnerability Assessment
-Nmap
-Wireshark
-Burp Suite
-MySQL
-SQL
-Problem Solving](https://img.shields.io/badge/Cloud%20Security%0AAWS%0ALinux%0APython%0ANetworking%0AIAM%0ADocker%0AKubernetes%0ATerraform%0AGit%20%26%20GitHub%0ADevSecOps%0AVulnerability%20Assessment%0ANmap%0AWireshark%0ABurp%20Suite%0AMySQL%0ASQL%0AProblem%20Solving-555?style=for-the-badge)
+![Programming: Python](https://img.shields.io/badge/Programming%3A%20Python-555?style=for-the-badge) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-555?style=for-the-badge) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![JavaScript
+Web Development: HTML5](https://img.shields.io/badge/JavaScript%0AWeb%20Development%3A%20HTML5-555?style=for-the-badge) ![CSS3](https://img.shields.io/badge/CSS3-555?style=for-the-badge) ![PHP
+Database: MySQL
+Cybersecurity: Network Security](https://img.shields.io/badge/PHP%0ADatabase%3A%20MySQL%0ACybersecurity%3A%20Network%20Security-555?style=for-the-badge) ![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability%20Assessment-555?style=for-the-badge) ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-555?style=for-the-badge) ![Nmap](https://img.shields.io/badge/Nmap-555?style=for-the-badge) ![Wireshark](https://img.shields.io/badge/Wireshark-555?style=for-the-badge) ![Kali Linux
+Cloud: AWS (Learning)](https://img.shields.io/badge/Kali%20Linux%0ACloud%3A%20AWS%20(Learning)-555?style=for-the-badge) ![Cloud Security Fundamentals
+Tools: Git](https://img.shields.io/badge/Cloud%20Security%20Fundamentals%0ATools%3A%20Git-555?style=for-the-badge) ![GitHub](https://img.shields.io/badge/GitHub-555?style=for-the-badge) ![VS Code
+Soft Skills: Problem Solving](https://img.shields.io/badge/VS%20Code%0ASoft%20Skills%3A%20Problem%20Solving-555?style=for-the-badge) ![Teamwork](https://img.shields.io/badge/Teamwork-555?style=for-the-badge) ![Communication](https://img.shields.io/badge/Communication-555?style=for-the-badge) ![Continuous Learning](https://img.shields.io/badge/Continuous%20Learning-555?style=for-the-badge)
 
 </div>
 ## 📊 GitHub Analytics
@@ -68,13 +57,7 @@ Problem Solving](https://img.shields.io/badge/Cloud%20Security%0AAWS%0ALinux%0AP
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/rohitpranav5/) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://claude.ai/public/artifacts/e4cd47b5-42a1-4a93-bd3f-b76e7aa2bbfa) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@www.youtube.com/@rohitpranav8162)
-
-</div>
-
-<div align="center">
-
-[![Sponsor](https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/https://github.com/rohitpranav)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/rohitpranav5/) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohitpranav056@gmail.com)
 
 </div>
 
