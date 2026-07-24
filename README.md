@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:8B5CFF,100:22D3EE&height=220&section=header&text=ROHIT%20PRANAV%20D&fontSize=42&fontColor=ffffff&desc=Cloud%20Security%20Engeneering&descSize=18&descAlign=50&descAlignY=58)
 <div align="center">
-
+ 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8B5CFF&center=true&vCenter=true&width=600&lines=Cloud%20Security%20Enthusiast;DevSecOps%20%26%20Web%20Security;Building%20Secure%20Solutions)](https://git.io/typing-svg)
 
 </div>
